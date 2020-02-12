@@ -1,0 +1,51 @@
+body {
+    background-color: lightgray;
+    text-align: justify;
+  }
+  
+  h1 {
+    padding: 10px;
+    background-color: black;
+    color: white;
+    text-align: right;
+  }
+  
+  h2 {
+    margin-left: 200px;
+    margin-right: 200px;
+    border-bottom: white 5px solid;
+  }
+  
+  p {
+    margin-left: 200px;
+    margin-right: 200px;
+  }
+  
+  .data {
+    border-top: black 3px solid;
+    margin-top: 20px;
+    padding-top: 20px;
+    text-align: center;
+  }
+  
+  time {
+    padding: 5px;
+    background-color: gray;
+    color: white;
+    font-size: 200%;
+    font-weight: bold;
+    letter-spacing: 5px;
+  }
+  
+  span {
+    border-bottom: red 1px dashed;
+  }
+  
+  span.cargo {
+    background-color: white;
+    color: red;
+  }
+  
+  span.lugar {
+    color: blue;
+  }
